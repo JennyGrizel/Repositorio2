@@ -2,6 +2,8 @@
 #include <stdlib.h>
 
 /////////esto es una prueba
-jffbd buh
+void main(
+	printf("Hola\r\n");
+)
 /*Se agregaron librerias*/
 //cambio
