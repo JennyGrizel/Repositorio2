@@ -2,6 +2,6 @@
 #include <stdlib.h>
 
 /////////esto es una prueba
-
-/*Se agregaron librerías*/
+jffbd buh
+/*Se agregaron librerias*/
 //cambio
